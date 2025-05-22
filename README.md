@@ -7,6 +7,7 @@ assests
 skybackground 
 Author	Free Game Assets (GUI, Sprite, Tilesets)
 https://free-game-assets.itch.io/free-sky-with-clouds-background-pixel-art-set
+https://craftpix.net/file-licenses/
 
 ocean-tiles
 AuthorSevarihk
